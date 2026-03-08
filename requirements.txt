@@ -1,4 +1,5 @@
 flask
-openai
 numpy
 scikit-learn
+groq
+gunicorn
